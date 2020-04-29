@@ -1,2 +1,3 @@
 # Fixed-income-with-machine-learning
-Bond Risk Premia with Machine Learning
+
+This project replicates the paper, Bond Risk Premia with Machine Learning.
